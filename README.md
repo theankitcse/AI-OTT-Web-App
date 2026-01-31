@@ -76,7 +76,10 @@ cd AI-OTT-Web-App
 ### 2️⃣ Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install pandas
+pip install numpy
+pip install scikit-learn
+pip install streamlit
 ```
 
 ### 3️⃣ Run the Streamlit App
